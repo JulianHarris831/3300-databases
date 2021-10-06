@@ -1,0 +1,71 @@
+<!-- db.html
+     Use a form to collect a query against the sailor database.
+     Call the PHP script, db.php to perform
+     the given query and display the results
+    -->
+<html>
+<head><title> Access to the Deck Builder database </title>
+</head>
+<body> <b>Welcome to the Deck Builder database</b> <br />
+_________________________________________________________<br /></body> 
+
+<!__ Simple select __>
+<p>
+<b>Quick table access:</b>
+<br />
+<form action = "http://css1.seattleu.edu/~harrisjulian/dbWeb/dbButton.php" method = "post">
+	<button name="query" type="submit" value="select * from Card">Cards</button>
+</form>
+<form action = "http://css1.seattleu.edu/~harrisjulian/dbWeb/dbButton.php" method = "post">
+	<button name="query" type="submit" value="select * from CardSet">Sets</button>
+</form>
+</p>
+
+<!__ Join/Aggregation query__>
+<p>
+<b>Table aggregations and stats:</b>
+<br />
+<form action = "http://css1.seattleu.edu/~harrisjulian/dbWeb/dbAgJoin.php" method = "post">
+	<button name="query" type="submit" value="select count(UserID) from UserD">User Count</button>
+</form>
+<form action = "http://css1.seattleu.edu/~harrisjulian/dbWeb/dbAgJoin.php" method = "post">
+	<button name="query" type="submit" 
+	value="SELECT count(Distinct C.SetID) FROM Card C, Contain O WHERE (O.SetName = 'Battle Styles' AND O.SetID = C.SetID) AND (C.CardType = 'bPokemon' OR C.CardType = 'ePokemon')">
+	Pokemon Count for BST</button>
+</form>
+</p>
+
+<!__ Create a user __>
+<p>
+<b>Create an account: </b> 
+<br />
+<form action = "http://css1.seattleu.edu/~harrisjulian/dbWeb/dbTextSubmit.php" method = "post">>
+	<label for="UserID">User ID (integer):</label><br>
+	<input type="number" id="UserID" name="UserID"><br>
+	<label for="Email">Email:</label><br> 
+	<input type="text" id="Email" name="Email"><br>
+	<label for="DoB">Date of Birth:</label><br>
+	<input type="text" id="DoB" name="DoB"><br>
+	
+	<input type="submit" value="submit">
+</form>
+</p>
+
+
+
+<!__ Given search query__>
+<p>
+<b>Advanced search:</b>
+<br />
+
+<form action  = "http://css1.seattleu.edu/~harrisjulian/dbWeb/dbSearch.php" method = "post">
+
+    <textarea  rows = "5"  cols = "40" name = "query" ></textarea>
+    <br /><br />
+    <input type = "reset"  value = "Reset" />
+    <input type = "submit"  value = "Submit request" />
+</form>    
+</p>
+</body>
+</html>
+

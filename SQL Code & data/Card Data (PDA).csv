@@ -1,0 +1,1005 @@
+SetID,CardType,CardName
+SSH 1,bPokemon,Celebi V
+SSH 2,bPokemon,Roselia
+SSH 3,bPokemon,Roselia
+SSH 4,ePokemon,Roserade
+SSH 5,bPokemon,Cottonee
+SSH 6,ePokemon,Whimsicott
+SSH 7,bPokemon,Maractus
+SSH 8,bPokemon,Durant
+SSH 9,bPokemon,Dhelmise V
+SSH 10,bPokemon,Grookey
+SSH 11,bPokemon,Grookey
+SSH 12,ePokemon,Thwackey
+SSH 13,ePokemon,Thwackey
+SSH 14,ePokemon,Rillaboom
+SSH 15,ePokemon,Rillaboom
+SSH 16,bPokemon,Blipbug
+SSH 17,bPokemon,Blipbug
+SSH 18,ePokemon,Dottler
+SSH 19,ePokemon,Orbeetle
+SSH 20,bPokemon,Gossifleur
+SSH 21,ePokemon,Eldegoss
+SSH 22,bPokemon,Vulpix
+SSH 23,ePokemon,Ninetales
+SSH 24,bPokemon,Torkoal V
+SSH 25,bPokemon,Victini V
+SSH 26,bPokemon,Heatmor
+SSH 27,bPokemon,Salandit
+SSH 28,ePokemon,Salazzle
+SSH 29,bPokemon,Turtonator
+SSH 30,bPokemon,Scorbunny
+SSH 31,bPokemon,Scorbunny
+SSH 32,ePokemon,Raboot
+SSH 33,ePokemon,Raboot
+SSH 34,bPokemon,Cinderace
+SSH 35,bPokemon,Cinderace
+SSH 36,bPokemon,Cinderace
+SSH 37,bPokemon,Sizzlipede
+SSH 38,bPokemon,Sizzlipede
+SSH 39,ePokemon,Centiskorch
+SSH 40,bPokemon,Shellder
+SSH 41,ePokemon,Cloyster
+SSH 42,bPokemon,Krabby
+SSH 43,bPokemon,Krabby
+SSH 44,ePokemon,Kingler
+SSH 45,bPokemon,Goldeen
+SSH 46,bPokemon,Goldeen
+SSH 47,ePokemon,Seaking
+SSH 48,bPokemon,Lapras
+SSH 49,bPokemon,Lapras V
+SSH 50,ePokemon,Lapras VMAX
+SSH 51,bPokemon,Qwilfish
+SSH 52,bPokemon,Mantine
+SSH 53,bPokemon,Keldeo V
+SSH 54,bPokemon,Sobble
+SSH 55,bPokemon,Sobble
+SSH 56,ePokemon,Drizzile
+SSH 57,ePokemon,Drizzile
+SSH 58,ePokemon,Inteleon
+SSH 59,ePokemon,Inteleon
+SSH 60,bPokemon,Chewtle
+SSH 61,ePokemon,Drednaw
+SSH 62,bPokemon,Cramorant
+SSH 63,bPokemon,Snom
+SSH 64,ePokemon,Frosmoth
+SSH 65,bPokemon,Pikachu
+SSH 66,ePokemon,Raichu
+SSH 67,bPokemon,Chinchou
+SSH 68,bPokemon,Chinchou
+SSH 69,ePokemon,Lanturn
+SSH 70,bPokemon,Joltik
+SSH 71,ePokemon,Galvantula
+SSH 72,bPokemon,Tapu Koko V
+SSH 73,bPokemon,Yamper
+SSH 74,bPokemon,Yamper
+SSH 75,ePokemon,Boltund
+SSH 76,ePokemon,Boltund
+SSH 77,bPokemon,Pincurchin
+SSH 78,bPokemon,Morpeko
+SSH 79,bPokemon,Morpeko V
+SSH 80,ePokemon,Morpeko VMAX
+SSH 81,bPokemon,Galarian Ponyta
+SSH 82,ePokemon,Galarian Rapidash
+SSH 83,bPokemon,Gastly
+SSH 84,ePokemon,Haunter
+SSH 85,ePokemon,Gengar
+SSH 86,bPokemon,Wobbuffet V
+SSH 87,bPokemon,Munna
+SSH 88,ePokemon,Musharna
+SSH 89,bPokemon,Sinistea
+SSH 90,ePokemon,Polteageist
+SSH 91,bPokemon,Indeedee V
+SSH 92,bPokemon,Diglett
+SSH 93,ePokemon,Dugtrio
+SSH 94,bPokemon,Hitmonlee
+SSH 95,bPokemon,Hitmonchan
+SSH 96,bPokemon,Rhyhorn
+SSH 97,bPokemon,Rhyhorn
+SSH 98,ePokemon,Rhydon
+SSH 99,ePokemon,Rhyperior
+SSH 100,bPokemon,Sudowoodo
+SSH 101,bPokemon,Baltoy
+SSH 102,bPokemon,Baltoy
+SSH 103,ePokemon,Claydol
+SSH 104,bPokemon,Regirock V
+SSH 105,bPokemon,Mudbray
+SSH 106,ePokemon,Mudsdale
+SSH 107,bPokemon,Silicobra
+SSH 108,bPokemon,Silicobra
+SSH 109,ePokemon,Sandaconda
+SSH 110,ePokemon,Sandaconda
+SSH 111,bPokemon,Clobbopus
+SSH 112,bPokemon,Clobbopus
+SSH 113,ePokemon,Grapploct
+SSH 114,bPokemon,Stonjourner
+SSH 115,bPokemon,Stonjourner V
+SSH 116,ePokemon,Stonjourner VMAX
+SSH 117,bPokemon,Galarian Zigzagoon
+SSH 118,ePokemon,Galarian Linoone
+SSH 119,ePokemon,Galarian Obstagoon
+SSH 120,bPokemon,Sableye V
+SSH 121,bPokemon,Skorupi
+SSH 122,ePokemon,Drapion
+SSH 123,bPokemon,Croagunk
+SSH 124,ePokemon,Toxicroak
+SSH 125,bPokemon,Nickit
+SSH 126,ePokemon,Thievul
+SSH 127,bPokemon,Galarian Meowth
+SSH 128,ePokemon,Galarian Perrserker
+SSH 129,bPokemon,Mawile
+SSH 130,bPokemon,Ferroseed
+SSH 131,ePokemon,Ferrothorn
+SSH 132,bPokemon,Galarian Stunfisk
+SSH 133,bPokemon,Pawniard
+SSH 134,ePokemon,Bisharp
+SSH 135,ePokemon,Corviknight
+SSH 136,bPokemon,Cufant
+SSH 137,ePokemon,Copperajah
+SSH 138,bPokemon,Zacian V
+SSH 139,bPokemon,Zamazenta V
+SSH 140,bPokemon,Snorlax
+SSH 141,bPokemon,Snorlax V
+SSH 142,ePokemon,Snorlax VMAX
+SSH 143,bPokemon,Hoothoot
+SSH 144,ePokemon,Noctowl
+SSH 145,bPokemon,Minccino
+SSH 146,bPokemon,Minccino
+SSH 147,ePokemon,Cinccino
+SSH 148,bPokemon,Oranguru
+SSH 149,bPokemon,Drampa
+SSH 150,bPokemon,Rookidee
+SSH 151,ePokemon,Corvisquire
+SSH 152,bPokemon,Wooloo
+SSH 153,bPokemon,Wooloo
+SSH 154,ePokemon,Dubwool
+SSH 155,bPokemon,Cramorant V
+SSH 156,Item,Air Baloon
+SSH 157,Supporter,Bede
+SSH 158,Item,Big Charm
+SSH 159,Item,Crushing Hammer
+SSH 160,Item,Energy Retrieval
+SSH 161,Item,Energy Search
+SSH 162,Item,Energy Switch
+SSH 163,Item,Evolution Incense
+SSH 164,Item,Great Ball
+SSH 165,Supporter,Hop
+SSH 166,Item,Hyper Potion
+SSH 167,Item,Lucky Egg
+SSH 168,Item,Lum Berry
+SSH 169,Supporter,Marnie
+SSH 170,Item,Metal Saucer
+SSH 171,Item,Ordinary Rod
+SSH 172,Item,Pal Pad
+SSH 173,Supporter,Poké Kid
+SSH 174,Item,Pokégear 3.0
+SSH 175,Item,Pokémon Catcher
+SSH 176,Supporter,Pokémon Center Lady
+SSH 177,Item,Potion
+SSH 178,Supporter,Professor’s Research
+SSH 179,Item,Quick Ball
+SSH 180,Item,Rare Candy
+SSH 181,Item,Rotom Bike
+SSH 182,Item,Sitrus Berry
+SSH 183,Item,Switch
+SSH 184,Supporter,Team Yell Grunt
+SSH 185,Item,Vitality Band
+SSH 186,sEnergy,Aurora Energy
+SSH 187,bPokemon,Dhelmise V
+SSH 188,bPokemon,Torkoal V
+SSH 189,bPokemon,Lapras V
+SSH 190,bPokemon,Morpeko V
+SSH 191,bPokemon,Wobbuffet V
+SSH 192,bPokemon,Indeedee V
+SSH 193,bPokemon,Stonjourner V
+SSH 194,bPokemon,Sableye V
+SSH 195,bPokemon,Zacian V
+SSH 196,bPokemon,Zamazenta V
+SSH 197,bPokemon,Snorlax V
+SSH 198,bPokemon,Cramorant V
+SSH 199,Supporter,Bede
+SSH 200,Supporter,Marnie
+SSH 201,Supporter,Professor’s Research
+SSH 202,Supporter,Team Yell Grunt
+RCL 1,bPokemon,Caterpie
+RCL 2,ePokemon,Metapod
+RCL 3,ePokemon,Butterfree
+RCL 4,bPokemon,Scyther
+RCL 5,bPokemon,Shuckle
+RCL 6,bPokemon,Heracross
+RCL 7,bPokemon,Lotad
+RCL 8,ePokemon,Lombre
+RCL 9,ePokemon,Ludicolo
+RCL 10,bPokemon,Surskit
+RCL 11,ePokemon,Masquerain
+RCL 12,bPokemon,Snover
+RCL 13,ePokemon,Abomasnow
+RCL 14,bPokemon,Phantump
+RCL 15,ePokemon,Trevenant
+RCL 16,bPokemon,Grubbin
+RCL 17,bPokemon,Rillaboom V
+RCL 18,ePokemon,Rillaboom VMAX
+RCL 19,bPokemon,Eldegoss V
+RCL 20,bPokemon,Applin
+RCL 21,bPokemon,Applin
+RCL 22,ePokemon,Flapple
+RCL 23,ePokemon,Appletun
+RCL 24,bPokemon,Vulpix
+RCL 25,ePokemon,Ninetales
+RCL 26,bPokemon,Ninetales V
+RCL 27,bPokemon,Growlithe
+RCL 28,ePokemon,Arcanine
+RCL 29,bPokemon,Magmar
+RCL 30,ePokemon,Magmortar
+RCL 31,bPokemon,Litwick
+RCL 32,ePokemon,Lampent
+RCL 33,ePokemon,Chandelure
+RCL 34,bPokemon,Heatmor
+RCL 35,bPokemon,Cinderace V
+RCL 36,ePokemon,Cinderace VMAX
+RCL 37,bPokemon,Galarian Mr. Mime
+RCL 38,ePokemon,Galarian Mr. Rime
+RCL 39,bPokemon,Magikarp
+RCL 40,ePokemon,Gyarados
+RCL 41,bPokemon,Wingull
+RCL 42,ePokemon,Pelipper
+RCL 43,bPokemon,Milotic V
+RCL 44,bPokemon,Tympole
+RCL 45,ePokemon,Palpitoad
+RCL 46,ePokemon,Seismitoad
+RCL 47,bPokemon,Galarian Darumaka
+RCL 48,ePokemon,Galarian Darkmanitan
+RCL 49,bPokemon,Inteleon V
+RCL 50,ePokemon,Inteleon VMAX 
+RCL 51,bPokemon,Cramorant
+RCL 52,bPokemon,Arrokuda
+RCL 53,ePokemon,Barraskewda
+RCL 54,bPokemon,Eiscue
+RCL 55,bPokemon,Eiscue V
+RCL 56,bPokemon,Voltorb
+RCL 57,ePokemon,Electrode
+RCL 58,bPokemon,Electabuzz
+RCL 59,ePokemon,Electivire
+RCL 60,bPokemon,Shinx
+RCL 61,ePokemon,Luxio
+RCL 62,ePokemon,Luxray
+RCL 63,bPokemon,Helioptile
+RCL 64,ePokemon,Heliolisk
+RCL 65,ePokemon,Charjabug
+RCL 66,ePokemon,Vikavolt
+RCL 67,bPokemon,Boltund V
+RCL 68,bPokemon,Toxel
+RCL 69,ePokemon,Toxtricity
+RCL 70,bPokemon,Toxtricity V
+RCL 71,ePokemon,Toxtricity VMAX
+RCL 72,bPokemon,Pincurchin V
+RCL 73,bPokemon,Morpeko
+RCL 74,bPokemon,Clefairy
+RCL 75,ePokemon,Clefable
+RCL 76,bPokemon,Natu
+RCL 77,ePokemon,Xatu
+RCL 78,bPokemon,Galarian Corsola
+RCL 79,ePokemon,Galarian Cursola
+RCL 80,bPokemon,Sigilyph
+RCL 81,bPokemon,Sandygast
+RCL 82,ePokemon,Palossand
+RCL 83,bPokemon,Hatenna
+RCL 84,ePokemon,Hattrem
+RCL 85,ePokemon,Hatterene
+RCL 86,bPokemon,Milcery
+RCL 87,ePokemon,Alcremie
+RCL 88,bPokemon,Indeedee
+RCL 89,bPokemon,Dreepy
+RCL 90,ePokemon,Drakloak
+RCL 91,ePokemon,Dragapult
+RCL 92,bPokemon,Dragapult V
+RCL 93,ePokemon,Dragapult VMAX
+RCL 94,bPokemon,Galarian Farfetch'd
+RCL 95,ePokemon,Galarian Sirfetch'd
+RCL 96,bPokemon,Nosepass
+RCL 97,bPokemon,Meditite
+RCL 98,ePokemon,Medicham
+RCL 99,bPokemon,Barboach
+RCL 100,ePokemon,Whiscash
+RCL 101,bPokemon,Galarian Yamask
+RCL 102,ePokemon,Galarian Runerigus
+RCL 103,bPokemon,Binacle
+RCL 104,ePokemon,Barbaracle
+RCL 105,bPokemon,Rolycoly
+RCL 106,ePokemon,Carkol
+RCL 107,ePokemon,Coalossal
+RCL 108,bPokemon,Sandaconda V
+RCL 109,bPokemon,Falinks
+RCL 110,bPokemon,Falinks V
+RCL 111,bPokemon,Stonjourner
+RCL 112,bPokemon,Koffing
+RCL 113,ePokemon,Galarian Weezing
+RCL 114,bPokemon,Stunky
+RCL 115,ePokemon,Skuntank
+RCL 116,bPokemon,Spiritomb
+RCL 117,bPokemon,Trubbish
+RCL 118,ePokemon,Garbodor
+RCL 119,bPokemon,Vullaby
+RCL 120,ePokemon,Mandibuzz
+RCL 121,bPokemon,Malamar V
+RCL 122,ePokemon,Malamar VMAX
+RCL 123,bPokemon,Impidimp
+RCL 124,ePokemon,Morgrem
+RCL 125,ePokemon,Grimmsnarl
+RCL 126,bPokemon,Galarian Meowth
+RCL 127,ePokemon,Galarian Perrserker
+RCL 128,ePokemon,Scizor
+RCL 129,bPokemon,Bronzor
+RCL 130,ePokemon,Bronzong
+RCL 131,ePokemon,Probopass
+RCL 132,bPokemon,Durant
+RCL 133,bPokemon,Honedge
+RCL 134,ePokemon,Doublade
+RCL 135,ePokemon,Aegislash
+RCL 136,bPokemon,Copperajah V
+RCL 137,ePokemon,Copperajah VMAX
+RCL 138,bPokemon,Duraludon
+RCL 139,bPokemon,Zacian
+RCL 140,bPokemon,Zamazenta
+RCL 141,bPokemon,Snorlax
+RCL 142,bPokemon,Chatot
+RCL 143,bPokemon,Pidove
+RCL 144,ePokemon,Tranquill
+RCL 145,ePokemon,Unfezant
+RCL 146,bPokemon,Bunnelby
+RCL 147,ePokemon,Diggersby
+RCL 148,bPokemon,Hawlucha
+RCL 149,bPokemon,Stufful
+RCL 150,ePokemon,Bewear
+RCL 151,bPokemon,Skwovet
+RCL 152,ePokemon,Greedent
+RCL 153,bPokemon,Dubwool V
+RCL 154,Supporter,Boss’s Orders
+RCL 155,Item,Burning Scarf
+RCL 156,Item,Capacious Bucket
+RCL 157,Item,Cursed Shovel
+RCL 158,Supporter,Dan
+RCL 159,Item,Full Heal
+RCL 160,Stadium,Galar Mine
+RCL 161,Supporter,Milo
+RCL 162,Item,Nugget
+RCL 163,Supporter,Oleana
+RCL 164,Item,Poké Ball
+RCL 165,Item,Scoop Up Next
+RCL 166,Supporter,Skyla
+RCL 167,Supporter,Sonia
+RCL 168,Item,Tool Scrapper
+RCL 169,Stadium,Training Court
+RCL 170,Stadium,Turffield Stadium
+RCL 171,sEnergy,Capture Energy
+RCL 172,sEnergy,Horror Energy
+RCL 173,sEnergy,Speed Energy
+RCL 174,sEnergy,Twin Energy
+RCL 175,bPokemon,Rillaboom V
+RCL 176,bPokemon,Eldegoss V
+RCL 177,bPokemon,Ninetales V
+RCL 178,bPokemon,Cinderace V
+RCL 179,bPokemon,Milotic V
+RCL 180,bPokemon,Inteleon V
+RCL 181,bPokemon,Boltund V
+RCL 182,bPokemon,Toxtricity V
+RCL 183,bPokemon,Dragapult V
+RCL 184,bPokemon,Sandaconda V
+RCL 185,bPokemon,Falinks V
+RCL 186,bPokemon,Malamar V
+RCL 187,bPokemon,Copperajah V
+RCL 188,bPokemon,Dubwool V
+RCL 189,Supporter,Boss’s Orders
+RCL 190,Supporter,Milo
+RCL 191,Supporter,Oleana
+RCL 192,Supporter,Sonia
+DAA 1,bPokemon,Butterfree V 
+DAA 2,ePokemon,Butterfree VMAX 
+DAA 3,bPokemon,Paras  
+DAA 4,ePokemon,Parasect  
+DAA 5,bPokemon,Carnivine  
+DAA 6,bPokemon,Pansage  
+DAA 7,ePokemon,Simisage  
+DAA 8,bPokemon,Karrablast  
+DAA 9,bPokemon,Shelmet  
+DAA 10,ePokemon,Accelgor  
+DAA 11,bPokemon,Rowlet  
+DAA 12,ePokemon,Dartrix  
+DAA 13,ePokemon,Decidueye  
+DAA 14,bPokemon,Bounsweet  
+DAA 15,ePokemon,Steenee  
+DAA 16,ePokemon,Tsareena  
+DAA 17,bPokemon,Wimpod  
+DAA 18,ePokemon,Golisopod  
+DAA 19,bPokemon,Charizard V 
+DAA 20,ePokemon,Charizard VMAX 
+DAA 21,bPokemon,Houndoom V 
+DAA 22,bPokemon,Torchic  
+DAA 23,ePokemon,Combusken  
+DAA 24,ePokemon,Blaziken  
+DAA 25,bPokemon,Heatran  
+DAA 26,bPokemon,Pansear  
+DAA 27,ePokemon,Simisear  
+DAA 28,ePokemon,Galarian Darmanitan 
+DAA 29,bPokemon,Larvesta  
+DAA 30,ePokemon,Volcarona  
+DAA 31,ePokemon,Fletchinder  
+DAA 32,ePokemon,Talonflame  
+DAA 33,bPokemon,Centiskorch V 
+DAA 34,ePokemon,Centiskorch VMAX 
+DAA 35,bPokemon,Galarian Mr. Mime
+DAA 36,ePokemon,Galarian Mr. Rime
+DAA 37,bPokemon,Suicune  
+DAA 38,bPokemon,Feebas  
+DAA 39,ePokemon,Milotic  
+DAA 40,bPokemon,Relicanth  
+DAA 41,bPokemon,Panpour  
+DAA 42,ePokemon,Simipour  
+DAA 43,bPokemon,Galarian Darumaka 
+DAA 44,ePokemon,Galarian Darmanitan 
+DAA 45,bPokemon,Vanillite  
+DAA 46,ePokemon,Vanillish  
+DAA 47,ePokemon,Vanilluxe  
+DAA 48,bPokemon,Cubchoo  
+DAA 49,ePokemon,Beartic  
+DAA 50,bPokemon,Wishiwashi  
+DAA 51,bPokemon,Mareanie  
+DAA 52,ePokemon,Toxapex  
+DAA 53,ePokemon,Dracovish  
+DAA 54,ePokemon,Arctovish  
+DAA 55,bPokemon,Mareep  
+DAA 56,ePokemon,Flaaffy  
+DAA 57,ePokemon,Ampharos  
+DAA 58,bPokemon,Electrike  
+DAA 59,ePokemon,Manectric  
+DAA 60,bPokemon,Vikavolt V 
+DAA 61,bPokemon,Tapu Koko 
+DAA 62,bPokemon,Toxel  
+DAA 63,ePokemon,Toxtricity  
+DAA 64,bPokemon,Pincurchin  
+DAA 65,ePokemon,Dracozolt  
+DAA 66,ePokemon,Arctozolt  
+DAA 67,bPokemon,Jigglypuff  
+DAA 68,ePokemon,Wigglytuff  
+DAA 69,bPokemon,Mew V 
+DAA 70,bPokemon,Snubbull  
+DAA 71,ePokemon,Granbull  
+DAA 72,bPokemon,Lunatone  
+DAA 73,bPokemon,Gothita  
+DAA 74,ePokemon,Gothorita  
+DAA 75,ePokemon,Gothitelle  
+DAA 76,bPokemon,Golett  
+DAA 77,ePokemon,Golurk  
+DAA 78,bPokemon,Dedenne  
+DAA 79,bPokemon,Morelull  
+DAA 80,ePokemon,Shiinotic  
+DAA 81,bPokemon,Mimikyu  
+DAA 82,bPokemon,Sinistea  
+DAA 83,ePokemon,Polteageist  
+DAA 84,bPokemon,Diglett  
+DAA 85,ePokemon,Dugtrio  
+DAA 86,bPokemon,Larvitar  
+DAA 87,ePokemon,Pupitar  
+DAA 88,ePokemon,Tyranitar  
+DAA 89,bPokemon,Trapinch  
+DAA 90,ePokemon,Vibrava  
+DAA 91,ePokemon,Flygon  
+DAA 92,bPokemon,Solrock  
+DAA 93,bPokemon,Hippopotas  
+DAA 94,ePokemon,Hippowdon  
+DAA 95,bPokemon,Rhyperior V 
+DAA 96,ePokemon,Diggersby  
+DAA 97,bPokemon,Passimian  
+DAA 98,ePokemon,Galarian Sirfetch’d 
+DAA 99,bPokemon,Galarian Slowbro V
+DAA 100,bPokemon,Grimer  
+DAA 101,ePokemon,Muk  
+DAA 102,bPokemon,Spinarak  
+DAA 103,ePokemon,Ariados  
+DAA 104,bPokemon,Crobat V 
+DAA 105,bPokemon,Darkrai  
+DAA 106,bPokemon,Purrloin  
+DAA 107,ePokemon,Liepard  
+DAA 108,bPokemon,Deino  
+DAA 109,ePokemon,Zweilous  
+DAA 110,ePokemon,Hydreigon  
+DAA 111,bPokemon,Hoopa  
+DAA 112,bPokemon,Nickit  
+DAA 113,ePokemon,Thievul  
+DAA 114,bPokemon,Grimmsnarl V 
+DAA 115,ePokemon,Grimmsnarl VMAX 
+DAA 116,bPokemon,Eternatus V 
+DAA 117,ePokemon,Eternatus VMAX 
+DAA 118,bPokemon,Scizor V 
+DAA 119,ePokemon,Scizor VMAX 
+DAA 120,bPokemon,Skarmory  
+DAA 121,bPokemon,Aron  
+DAA 122,ePokemon,Lairon  
+DAA 123,ePokemon,Aggron  
+DAA 124,ePokemon,Escavalier  
+DAA 125,bPokemon,Klink  
+DAA 126,ePokemon,Klang  
+DAA 127,ePokemon,Klinklang  
+DAA 128,bPokemon,Galarian Stunfisk V
+DAA 129,bPokemon,Meltan  
+DAA 130,ePokemon,Melmetal  
+DAA 131,bPokemon,Cufant  
+DAA 132,ePokemon,Copperajah  
+DAA 133,bPokemon,Kangaskhan  
+DAA 134,bPokemon,Tauros  
+DAA 135,bPokemon,Sentret  
+DAA 136,ePokemon,Furret  
+DAA 137,bPokemon,Dunsparce  
+DAA 138,bPokemon,Teddiursa  
+DAA 139,ePokemon,Ursaring  
+DAA 140,bPokemon,Lugia  
+DAA 141,bPokemon,Skitty  
+DAA 142,ePokemon,Delcatty  
+DAA 143,bPokemon,Salamence V 
+DAA 144,ePokemon,Salamence VMAX 
+DAA 145,bPokemon,Starly  
+DAA 146,ePokemon,Staravia  
+DAA 147,ePokemon,Staraptor  
+DAA 148,bPokemon,Ducklett  
+DAA 149,ePokemon,Swanna  
+DAA 150,bPokemon,Bunnelby  
+DAA 151,bPokemon,Fletchling  
+DAA 152,bPokemon,Skwovet  
+DAA 153,ePokemon,Greedent  
+DAA 154,bPokemon,Rookidee  
+DAA 155,ePokemon,Corvisquire  
+DAA 156,ePokemon,Corviknight  
+DAA 157,Item,Big Parasol 
+DAA 158,Item,Billowing Smoke 
+DAA 159,Supporter,Bird Keeper 
+DAA 160,Item,Cape of Toughness
+DAA 161,Item,Familiar Bell 
+DAA 162,Stadium,Glimwood Tangle 
+DAA 163,Supporter,Kabu  
+DAA 164,Item,Old PC 
+DAA 165,Supporter,Piers  
+DAA 166,Supporter,Pokémon Breeder’s Nurturing
+DAA 167,Item,Rare Fossil 
+DAA 168,Supporter,Rose  
+DAA 169,Stadium,Rose Tower 
+DAA 170,Stadium,Spikemuth  
+DAA 171,Item,Struggle Gloves 
+DAA 172,Item,Turbo Patch 
+DAA 173,Item,Yell Horn 
+DAA 174,sEnergy,Heat Energy 
+DAA 175,sEnergy,Hiding Energy 
+DAA 176,sEnergy,Powerful Energy 
+DAA 177,bPokemon,Butterfree V 
+DAA 178,bPokemon,Houndoom V 
+DAA 179,bPokemon,Centiskorch V 
+DAA 180,bPokemon,Vikavolt V 
+DAA 181,bPokemon,Rhyperior V 
+DAA 182,bPokemon,Crobat V 
+DAA 183,bPokemon,Scizor V 
+DAA 184,bPokemon,Galarian Stunfisk V
+DAA 185,bPokemon,Salamence V 
+DAA 186,bPokemon,Kabu  
+DAA 187,bPokemon,Piers  
+DAA 188,bPokemon,Pokémon Breeder’s Nurturing
+DAA 189,bPokemon,Rose  
+VIV 1,bPokemon,Weedle  
+VIV 2,ePokemon,Kakuna  
+VIV 3,ePokemon,Beedrill  
+VIV 4,bPokemon,Exeggcute  
+VIV 5,ePokemon,Exeggutor  
+VIV 6,bPokemon,Yanma  
+VIV 7,ePokemon,Yanmega  
+VIV 8,bPokemon,Pineco  
+VIV 9,bPokemon,Celebi  
+VIV 10,bPokemon,Seedot  
+VIV 11,ePokemon,Nuzleaf  
+VIV 12,ePokemon,Shiftry  
+VIV 13,bPokemon,Nincada  
+VIV 14,ePokemon,Ninjask  
+VIV 15,bPokemon,Shaymin  
+VIV 16,bPokemon,Genesect  
+VIV 17,bPokemon,Skiddo  
+VIV 18,ePokemon,Gogoat  
+VIV 19,bPokemon,Dhelmise  
+VIV 20,bPokemon,Orbeetle V 
+VIV 21,ePokemon,Orbeetle VMAX 
+VIV 22,bPokemon,Zarude V 
+VIV 23,bPokemon,Charmander  
+VIV 24,ePokemon,Charmeleon  
+VIV 25,ePokemon,Charizard  
+VIV 26,ePokemon,Flareon  
+VIV 27,bPokemon,Slugma  
+VIV 28,ePokemon,Magcargo  
+VIV 29,bPokemon,Talonflame V 
+VIV 30,ePokemon,Vaporeon  
+VIV 31,bPokemon,Wailmer  
+VIV 32,ePokemon,Wailord  
+VIV 33,bPokemon,Oshawott  
+VIV 34,ePokemon,Dewott  
+VIV 35,ePokemon,Samurott  
+VIV 36,bPokemon,Galarian Darmanitan V
+VIV 37,ePokemon,Galarian Darmanitan VMAX
+VIV 38,bPokemon,Chewtle  
+VIV 39,ePokemon,Drednaw  
+VIV 40,bPokemon,Cramorant  
+VIV 41,bPokemon,Arrokuda  
+VIV 42,ePokemon,Barraskewda  
+VIV 43,bPokemon,Pikachu V 
+VIV 44,ePokemon,Pikachu VMAX 
+VIV 45,bPokemon,Voltorb  
+VIV 46,ePokemon,Electrode  
+VIV 47,ePokemon,Jolteon  
+VIV 48,bPokemon,Zapdos  
+VIV 49,bPokemon,Ampharos V 
+VIV 50,bPokemon,Raikou  
+VIV 51,bPokemon,Electrike  
+VIV 52,ePokemon,Manectric  
+VIV 53,bPokemon,Blitzle  
+VIV 54,ePokemon,Zebstrika  
+VIV 55,bPokemon,Joltik  
+VIV 56,ePokemon,Galvantula  
+VIV 57,bPokemon,Tynamo  
+VIV 58,ePokemon,Eelektrik  
+VIV 59,ePokemon,Eelektross  
+VIV 60,bPokemon,Zekrom  
+VIV 61,bPokemon,Zeraora  
+VIV 62,bPokemon,Pincurchin  
+VIV 63,bPokemon,Clefairy  
+VIV 64,ePokemon,Clefable  
+VIV 65,bPokemon,Girafarig  
+VIV 66,bPokemon,Shedinja  
+VIV 67,bPokemon,Shuppet  
+VIV 68,ePokemon,Banette  
+VIV 69,bPokemon,Duskull  
+VIV 70,ePokemon,Dusclops  
+VIV 71,ePokemon,Dusknoir  
+VIV 72,bPokemon,Chimecho  
+VIV 73,bPokemon,Woobat  
+VIV 74,ePokemon,Swoobat  
+VIV 75,bPokemon,Cottonee  
+VIV 76,ePokemon,Whimsicott  
+VIV 77,bPokemon,Dedenne  
+VIV 78,bPokemon,Xerneas  
+VIV 79,bPokemon,Diancie  
+VIV 80,bPokemon,Milcery  
+VIV 81,ePokemon,Alcremie  
+VIV 82,bPokemon,Zacian  
+VIV 83,bPokemon,Wooper  
+VIV 84,ePokemon,Quagsire  
+VIV 85,bPokemon,Shuckle  
+VIV 86,bPokemon,Phanpy  
+VIV 87,ePokemon,Donphan  
+VIV 88,bPokemon,Hitmontop  
+VIV 89,bPokemon,Regirock  
+VIV 90,bPokemon,Riolu  
+VIV 91,bPokemon,Drilbur  
+VIV 92,bPokemon,Terrakion  
+VIV 93,bPokemon,Zygarde  
+VIV 94,bPokemon,Rockruff  
+VIV 95,ePokemon,Lycanroc  
+VIV 96,bPokemon,Mudbray  
+VIV 97,ePokemon,Mudsdale  
+VIV 98,bPokemon,Coalossal V 
+VIV 99,ePokemon,Coalossal VMAX 
+VIV 100,bPokemon,Clobbopus  
+VIV 101,ePokemon,Grapploct  
+VIV 102,bPokemon,Zamazenta  
+VIV 103,bPokemon,Poochyena  
+VIV 104,ePokemon,Mightyena  
+VIV 105,bPokemon,Sableye  
+VIV 106,bPokemon,Drapion V 
+VIV 107,bPokemon,Sandile  
+VIV 108,ePokemon,Krokorok  
+VIV 109,ePokemon,Krookodile  
+VIV 110,bPokemon,Trubbish  
+VIV 111,ePokemon,Garbodor  
+VIV 112,bPokemon,Galarian Meowth 
+VIV 113,ePokemon,Galarian Perrserker 
+VIV 114,ePokemon,Forretress  
+VIV 115,bPokemon,Steelix V 
+VIV 116,bPokemon,Beldum  
+VIV 117,ePokemon,Metang  
+VIV 118,ePokemon,Metagross  
+VIV 119,bPokemon,Jirachi  
+VIV 120,ePokemon,Lucario  
+VIV 121,bPokemon,Dialga  
+VIV 122,ePokemon,Excadrill  
+VIV 123,bPokemon,Ferroseed  
+VIV 124,ePokemon,Ferrothorn  
+VIV 125,bPokemon,Galarian Stunfisk 
+VIV 126,bPokemon,Aegislash V 
+VIV 127,ePokemon,Aegislash VMAX 
+VIV 128,bPokemon,Magearna  
+VIV 129,bPokemon,Duraludon  
+VIV 130,bPokemon,Eevee  
+VIV 131,bPokemon,Snorlax  
+VIV 132,bPokemon,Lugia  
+VIV 133,bPokemon,Taillow  
+VIV 134,ePokemon,Swellow  
+VIV 135,bPokemon,Whismur  
+VIV 136,ePokemon,Loudred  
+VIV 137,ePokemon,Exploud  
+VIV 138,bPokemon,Rayquaza  
+VIV 139,bPokemon,Chatot  
+VIV 140,bPokemon,Togekiss V 
+VIV 141,ePokemon,Togekiss VMAX 
+VIV 142,bPokemon,Tornadus  
+VIV 143,bPokemon,Pikipek  
+VIV 144,ePokemon,Trumbeak  
+VIV 145,ePokemon,Toucannon  
+VIV 146,Supporter,Allister  
+VIV 147,Supporter,Bea  
+VIV 148,Supporter,Beauty  
+VIV 149,Supporter,Cara Liss 
+VIV 150,Stadium,Circhester Bath 
+VIV 151,Item,Drone Rotom 
+VIV 152,Item,Hero’s Medal 
+VIV 153,Supporter,League Staff 
+VIV 154,Supporter,Leon  
+VIV 155,Item,Memory Capsule 
+VIV 156,Item,Moomoo Cheese 
+VIV 157,Supporter,Nessa  
+VIV 158,Supporter,Opal  
+VIV 159,Item,Rocky Helmet 
+VIV 160,Item,Telescopic Sight 
+VIV 161,Stadium,Wyndon Stadium 
+VIV 162,sEnergy,Aromatic Energy 
+VIV 163,sEnergy,Coating Energy 
+VIV 164,sEnergy,Stone Energy 
+VIV 165,sEnergy,Wash Energy 
+VIV 166,bPokemon,Orbeetle V 
+VIV 167,bPokemon,Zarude V 
+VIV 168,bPokemon,Talonflame V 
+VIV 169,bPokemon,Galarian Darmanitan V
+VIV 170,bPokemon,Pikachu V 
+VIV 171,bPokemon,Ampharos V 
+VIV 172,bPokemon,Alakazam V 
+VIV 173,bPokemon,Coalossal V 
+VIV 174,bPokemon,Galarian Sirfetch’d V
+VIV 175,bPokemon,Drapion V 
+VIV 176,bPokemon,Steelix V 
+VIV 177,bPokemon,Aegislash V 
+VIV 178,bPokemon,Togekiss V 
+VIV 179,Supporter,Allister  
+VIV 180,Supporter,Bea  
+VIV 181,Supporter,Beauty  
+VIV 182,Supporter,Leon  
+VIV 183,Supporter,Nessa  
+VIV 184,Supporter,Opal  
+VIV 185,Supporter,Pokémon Center Lady
+BST 1,bPokemon,Bellsprout    
+BST 2,ePokemon,Weepinbell    
+BST 3,ePokemon,Victreebel    
+BST 4,bPokemon,Cacnea    
+BST 5,ePokemon,Cacturne    
+BST 6,bPokemon,Kricketune V   
+BST 7,bPokemon,Cherubi    
+BST 8,ePokemon,Cherrim    
+BST 9,bPokemon,Carnivine    
+BST 10,bPokemon,Durant    
+BST 11,bPokemon,Scatterbug    
+BST 12,ePokemon,Spewpa    
+BST 13,ePokemon,Vivillon    
+BST 14,bPokemon,Fomantis    
+BST 15,ePokemon,Lurantis    
+BST 16,bPokemon,Tapu Bulu   
+BST 17,bPokemon,Blipbug    
+BST 18,bPokemon,Flapple V   
+BST 19,ePokemon,Flapple VMAX   
+BST 20,bPokemon,Entei    
+BST 21,bPokemon,Victini V   
+BST 22,ePokemon,Victini VMAX   
+BST 23,bPokemon,Tepig    
+BST 24,ePokemon,Pignite    
+BST 25,ePokemon,Emboar    
+BST 26,bPokemon,Heatmor    
+BST 27,bPokemon,Salandit    
+BST 28,ePokemon,Salazzle    
+BST 29,bPokemon,Sizzlipede    
+BST 30,ePokemon,Centiskorch    
+BST 31,bPokemon,Horsea    
+BST 32,ePokemon,Seadra    
+BST 33,ePokemon,Kingdra    
+BST 34,bPokemon,Galarian Mr. Mime  
+BST 35,ePokemon,Galarian Mr. Rime  
+BST 36,bPokemon,Remoraid    
+BST 37,ePokemon,Octillery    
+BST 38,bPokemon,Corphish    
+BST 39,ePokemon,Crawdaunt    
+BST 40,bPokemon,Empoleon V   
+BST 41,bPokemon,Frillish    
+BST 42,ePokemon,Jellicent    
+BST 43,bPokemon,Bruxish    
+BST 44,bPokemon,Electabuzz    
+BST 45,ePokemon,Electivire    
+BST 46,bPokemon,Shinx    
+BST 47,ePokemon,Luxio    
+BST 48,ePokemon,Luxray    
+BST 49,bPokemon,Pachirisu    
+BST 50,bPokemon,Tapu Koko V  
+BST 51,ePokemon,Tapu Koko VMAX  
+BST 52,bPokemon,Yamper    
+BST 53,ePokemon,Boltund    
+BST 54,bPokemon,Galarian Slowpoke   
+BST 55,bPokemon,Spoink    
+BST 56,ePokemon,Grumpig    
+BST 57,bPokemon,Baltoy    
+BST 58,ePokemon,Claydol    
+BST 59,bPokemon,Chimecho    
+BST 60,bPokemon,Espurr    
+BST 61,ePokemon,Meowstic    
+BST 62,bPokemon,Mimikyu V   
+BST 63,bPokemon,Necrozma V   
+BST 64,ePokemon,Dottler    
+BST 65,ePokemon,Orbeetle    
+BST 66,bPokemon,Mankey    
+BST 67,ePokemon,Primeape    
+BST 68,bPokemon,Onix    
+BST 69,bPokemon,Cubone    
+BST 70,ePokemon,Marowak    
+BST 71,bPokemon,Gligar    
+BST 72,ePokemon,Gliscor    
+BST 73,bPokemon,Timburr    
+BST 74,ePokemon,Gurdurr    
+BST 75,ePokemon,Conkeldurr    
+BST 76,bPokemon,Mienfoo    
+BST 77,ePokemon,Mienshao    
+BST 78,bPokemon,Rolycoly    
+BST 79,ePokemon,Carkol    
+BST 80,ePokemon,Coalossal    
+BST 81,bPokemon,Silicobra    
+BST 82,ePokemon,Sandaconda    
+BST 83,bPokemon,Falinks    
+BST 84,bPokemon,Stonjourner    
+BST 85,bPokemon,Single Strike Urshifu V 
+BST 86,ePokemon,Single Strike Urshifu VMAX 
+BST 87,bPokemon,Rapid Strike Urshifu V 
+BST 88,ePokemon,Rapid Strike Urshifu VMAX 
+BST 89,bPokemon,Zubat    
+BST 90,ePokemon,Golbat    
+BST 91,ePokemon,Crobat    
+BST 92,ePokemon,Galarian Slowbro   
+BST 93,bPokemon,Murkrow    
+BST 94,ePokemon,Honchkrow    
+BST 95,bPokemon,Houndour    
+BST 96,ePokemon,Houndoom    
+BST 97,bPokemon,Tyranitar V   
+BST 98,bPokemon,Morpeko    
+BST 99,ePokemon,Steelix    
+BST 100,bPokemon,Mawile    
+BST 101,bPokemon,Bronzor    
+BST 102,ePokemon,Bronzong    
+BST 103,bPokemon,Pawniard    
+BST 104,ePokemon,Bisharp    
+BST 105,bPokemon,Honedge    
+BST 106,ePokemon,Doublade    
+BST 107,ePokemon,Aegislash    
+BST 108,ePokemon,Aegislash    
+BST 109,bPokemon,Corviknight V   
+BST 110,ePokemon,Corviknight VMAX   
+BST 111,bPokemon,Spearow    
+BST 112,ePokemon,Fearow    
+BST 113,bPokemon,Lickitung    
+BST 114,ePokemon,Lickilicky    
+BST 115,bPokemon,Glameow    
+BST 116,ePokemon,Purugly    
+BST 117,bPokemon,Stoutland V   
+BST 118,bPokemon,Bouffalant    
+BST 119,bPokemon,Drampa    
+BST 120,bPokemon,Indeedee    
+BST 121,Supporter,Bruno    
+BST 122,Item,Camping Gear   
+BST 123,Supporter,Cheryl    
+BST 124,Item,Energy Recycler   
+BST 125,Item,Escape Rope   
+BST 126,Item,Exp. Share   
+BST 127,Item,Fan of Waves  
+BST 128,Supporter,Korrina’s Focus   
+BST 129,Item,Level Ball   
+BST 130,Supporter,Phoebe    
+BST 131,Item,Rapid Strike Scroll of Swirls
+BST 132,Supporter,Rapid Strike Style Mustard 
+BST 133,Item,Single Strike Scroll of Scorn
+BST 134,Supporter,Single Strike Style Mustard 
+BST 135,Supporter,Sordward & Shielbert  
+BST 136,Item,Tool Jammer   
+BST 137,Stadium,Tower of Darkness  
+BST 138,Stadium,Tower of Waters  
+BST 139,Item,Urn of Vitality  
+BST 140,sEnergy,Rapid Strike Energy  
+BST 141,sEnergy,Single Strike Energy  
+BST 142,bPokemon,Kricketune V   
+BST 143,bPokemon,Flapple V   
+BST 144,bPokemon,Victini V   
+BST 145,bPokemon,Empoleon V   
+BST 146,bPokemon,Empoleon V   
+BST 147,bPokemon,Tapu Koko V  
+BST 148,bPokemon,Mimikyu V   
+BST 149,bPokemon,Necrozma V   
+BST 150,bPokemon,Single Strike Urshifu V 
+BST 151,bPokemon,Single Strike Urshifu V 
+BST 152,bPokemon,Rapid Strike Urshifu V 
+BST 153,bPokemon,Rapid Strike Urshifu V 
+BST 154,bPokemon,Tyranitar V   
+BST 155,bPokemon,Tyranitar V   
+BST 156,bPokemon,Corviknight V   
+BST 157,bPokemon,Stoutland V   
+BST 158,Supporter,Bruno    
+BST 159,Supporter,Cheryl    
+BST 160,Supporter,Korrina’s Focus   
+BST 161,Supporter,Phoebe    
+BST 162,Supporter,Rapid Strike Style Mustard 
+BST 163,Supporter,Single Strike Style Mustard 
+SHF 1,bPokemon,Yanma  
+SHF 2,ePokemon,Yanmega  
+SHF 3,bPokemon,Celebi  
+SHF 4,bPokemon,Cacnea  
+SHF 5,bPokemon,Tropius  
+SHF 6,bPokemon,Rowlet  
+SHF 7,ePokemon,Dartrix  
+SHF 8,ePokemon,Decidueye  
+SHF 9,bPokemon,Dhelmise V 
+SHF 10,ePokemon,Dhelmise VMAX 
+SHF 11,bPokemon,Grookey  
+SHF 12,ePokemon,Thwackey  
+SHF 13,ePokemon,Rillaboom  
+SHF 14,bPokemon,Gossifleur  
+SHF 15,ePokemon,Eldegoss  
+SHF 16,bPokemon,Zarude  
+SHF 17,bPokemon,Reshiram  
+SHF 18,bPokemon,Cinderace V 
+SHF 19,ePokemon,Cinderace VMAX 
+SHF 20,bPokemon,Horsea  
+SHF 21,bPokemon,Kyogre  
+SHF 22,bPokemon,Buizel  
+SHF 23,ePokemon,Floatzel  
+SHF 24,bPokemon,Manaphy  
+SHF 25,bPokemon,Volcanion  
+SHF 26,bPokemon,Chewtle  
+SHF 27,ePokemon,Drednaw  
+SHF 28,bPokemon,Cramorant  
+SHF 29,bPokemon,Snom  
+SHF 30,ePokemon,Frosmoth  
+SHF 31,bPokemon,Shinx  
+SHF 32,ePokemon,Luxio  
+SHF 33,ePokemon,Luxray  
+SHF 34,bPokemon,Rotom  
+SHF 35,bPokemon,Morpeko  
+SHF 36,bPokemon,Morpeko  
+SHF 37,bPokemon,Morpeko V 
+SHF 38,ePokemon,Morpeko VMAX 
+SHF 39,bPokemon,Indeedee V 
+SHF 40,bPokemon,Trapinch  
+SHF 41,bPokemon,Koffing  
+SHF 42,ePokemon,Galarian Weezing 
+SHF 43,bPokemon,Spinarak  
+SHF 44,bPokemon,Crobat V 
+SHF 45,ePokemon,Crobat VMAX 
+SHF 46,bPokemon,Yveltal  
+SHF 47,bPokemon,Nickit  
+SHF 48,ePokemon,Thievul  
+SHF 49,bPokemon,Cufant  
+SHF 50,bPokemon,Ditto V 
+SHF 51,ePokemon,Ditto VMAX 
+SHF 52,bPokemon,Eevee  
+SHF 53,bPokemon,Greedent V 
+SHF 54,bPokemon,Cramorant V 
+SHF 55,ePokemon,Cramorant VMAX 
+SHF 56,bPokemon,Indeedee  
+SHF 57,Supporter,Ball Guy 
+SHF 58,Supporter,Boss’s Orders 
+SHF 59,Supporter,Gym Trainer 
+SHF 60,Supporter,Professor’s Research 
+SHF 61,Item,Rusted Shield 
+SHF 62,Item,Rusted Sword 
+SHF 63,Item,Team Yell Towel
+SHF 64,bPokemon,Alcremie V 
+SHF 65,Supporter,Ball Guy 
+SHF 66,Supporter,Bird Keeper 
+SHF 67,Supporter,Cara Liss 
+SHF 68,Supporter,Gym Trainer 
+SHF 69,Supporter,Piers  
+SHF 70,Supporter,Poké Kid 
+SHF 71,Supporter,Rose  
+SHF 72,Supporter,Skyla  
+SHF 73,ePokemon,Alcremie VMAX 
